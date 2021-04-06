@@ -1,0 +1,8 @@
+title: Showdown
+description: An extensible Markdown to HTML converter written in Javascript
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
